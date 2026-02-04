@@ -1,4 +1,5 @@
-## Olá, Eu sou o Daniel, atualmente estou cursando TI para Internet no SENAI | Aprendendo e construindo projetos em desenvolvimento web
+## Olá, eu sou o Daniel! 👋
+## Sou Técnico em Informática para Internet em formação pelo SENAI (conclusão em agosto/2026). Atualmente, estou mergulhado no ecossistema de desenvolvimento web.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
