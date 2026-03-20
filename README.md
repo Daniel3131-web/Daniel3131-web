@@ -1,5 +1,5 @@
 ## Olá, eu sou o Daniel! 👋
-## Sou Técnico em Informática para Internet em formação pelo SENAI (conclusão em agosto/2026). Atualmente, estou mergulhado no ecossistema de desenvolvimento web.
+## Sou Técnico em Desenvolvimento Web em formação pelo SENAI (conclusão em agosto/2026). Atualmente, estou mergulhado no ecossistema de desenvolvimento web.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
